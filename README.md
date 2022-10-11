@@ -6,7 +6,7 @@ The application works client-side for the most part, taking advantage of the sto
 
 View project 
 
- <p> DEPLOY
+ <p> 
       <a href="https://react-ecommerce-liard-six.vercel.app/">
          
       </a> 
